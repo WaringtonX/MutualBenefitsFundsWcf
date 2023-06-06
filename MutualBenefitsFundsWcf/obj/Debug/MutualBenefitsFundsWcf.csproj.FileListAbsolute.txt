@@ -1,0 +1,6 @@
+C:\Users\Warington\source\repos\MutualBenefitsFundsWcf\MutualBenefitsFundsWcf\bin\MutualBenefitsFundsWcf.dll.config
+C:\Users\Warington\source\repos\MutualBenefitsFundsWcf\MutualBenefitsFundsWcf\bin\MutualBenefitsFundsWcf.dll
+C:\Users\Warington\source\repos\MutualBenefitsFundsWcf\MutualBenefitsFundsWcf\bin\MutualBenefitsFundsWcf.pdb
+C:\Users\Warington\source\repos\MutualBenefitsFundsWcf\MutualBenefitsFundsWcf\obj\Debug\MutualBenefitsFundsWcf.csproj.CoreCompileInputs.cache
+C:\Users\Warington\source\repos\MutualBenefitsFundsWcf\MutualBenefitsFundsWcf\obj\Debug\MutualBenefitsFundsWcf.dll
+C:\Users\Warington\source\repos\MutualBenefitsFundsWcf\MutualBenefitsFundsWcf\obj\Debug\MutualBenefitsFundsWcf.pdb
